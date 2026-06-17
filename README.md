@@ -7,7 +7,7 @@
 Modern AI/ML developer portfolio built with **Next.js, TypeScript, Tailwind CSS, and GSAP**.
 
 ## Live Website
-[Coming Soon]
+[https://shyamdev-eta.vercel.app/]
 
 ## Features
 - Minimal brutalist UI
