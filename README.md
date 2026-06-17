@@ -5,6 +5,11 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8)
 
 Modern AI/ML developer portfolio built with **Next.js, TypeScript, Tailwind CSS, and GSAP**.
+## live preview 
+[![Portfolio Preview](public/projectPreview.png)](https://shyamdev-eta.vercel.app/)
+
+
+
 
 ## Live Website
 [https://shyamdev-eta.vercel.app/]
