@@ -4,15 +4,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8)
 
+[![Live Demo](https://img.shields.io/badge/Live-shyamdev--eta.vercel.app-green)](https://shyamdev-eta.vercel.app/)
+
+![Portfolio Preview](https://shyamdev-eta.vercel.app/api/og)
+
 Modern AI/ML developer portfolio built with **Next.js, TypeScript, Tailwind CSS, and GSAP**.
-## live preview 
-[![Portfolio Preview](public/projectPreview.png)](https://shyamdev-eta.vercel.app/)
-
-
-
 
 ## Live Website
-[https://shyamdev-eta.vercel.app/]
+[shyamdev-eta.vercel.app](https://shyamdev-eta.vercel.app/)
 
 ## Features
 - Minimal brutalist UI
@@ -36,10 +35,10 @@ Modern AI/ML developer portfolio built with **Next.js, TypeScript, Tailwind CSS,
 - Recognitions & Milestones
 
 ## Run Locally
-\```bash
+```bash
 npm install
 npm run dev
-\```
+```
 
 ## Contact
 - LinkedIn: [linkedin.com/in/shyamsarath-067-](https://www.linkedin.com/in/shyamsarath-067-/)
